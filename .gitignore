@@ -1,0 +1,17 @@
+.dart_tool/
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+coverage/
+android/.gradle/
+android/local.properties
+ios/Flutter/ephemeral/
+ios/Pods/
+macos/Flutter/ephemeral/
+.idea/
+.vscode/launch.json
+*.iml
+*.jks
+*.keystore
+.env
